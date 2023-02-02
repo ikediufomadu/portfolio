@@ -17,3 +17,11 @@
     padding-top: 20px;
     padding-bottom: 40px;
 }
+#Self_Photo {
+     width="200" 
+     height="200"
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
